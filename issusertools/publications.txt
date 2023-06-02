@@ -1,0 +1,433 @@
+HIGH IMPACTVarun R. Kankanallu, Xiaoyin Zheng, Denis Leschev, Nicole Zmich, Charles Clark, Cheng-Hung Lin, Hui Zhong, Sanjit Ghose, Andrew M. Kiss, Dmytro Nykypanchuk, Eli Stavitski, Esther S. Takeuchi, Amy C. Marschilok, Kenneth J. Takeuchi, Jianming Bai, Mingyuan Ge, Yu-chen Karen Chen-Wiegart, Elucidating a dissolution–deposition reaction mechanism by multimodal synchrotron X-ray characterization in aqueous Zn/MnO2 batteries. Energy Environ. Sci. (2023). [doi: 10.1039/D2EE03731A]
+
+HIGH IMPACTStephen Porter, Arnab Ghosh, Chih Han Liu, Deepak Kunwar, Chase Thompson, Ryan Alcala, David P. Dean, Jeffrey T. Miller, Andrew DeLaRiva, Hien Pham, Eric Peterson, Adrian Brearley, John Watt, Eleni A. Kyriakidou, Abhaya K. Datye, Biphasic Janus Particles Explain Self-Healing in Pt–Pd Diesel Oxidation Catalysts. ACS Catal., 13(8), 5456-5471 (2023). [doi: 10.1021/acscatal.3c00360]
+
+HIGH IMPACTYang Liu, Enbo Zhu, Jin Huang, Ao Zhang, Aamir Hassan Shah, Qingying Jia, Mingjie Xu, Ershuai Liu, Qiang Sun, Xiangfeng Duan, Yu Huang, Periodic Assembly of Diblock Pt–Au Heteronanowires for the Methanol Oxidation Reaction. Nano Lett., 23(7), 2758-2763 (2023). [doi: 10.1021/acs.nanolett.3c00029]
+
+Ryan Alcala, David P. Dean, Isha Chavan, Che-Wei Chang, Brandon Burnside, Hien N. Pham, Eric Peterson, Jeffrey T. Miller, Abhaya K. Datye, Strategies for regeneration of Pt-alloy catalysts supported on silica for propane dehydrogenation. Appl. Catal. A, 658, 119157 (2023). [doi: 10.1016/j.apcata.2023.119157]
+
+HIGH IMPACTNing Rui, Xuelong Wang, Kaixi Deng, Jorge Moncada, Rina Rosales, Feng Zhang, Wenqian Xu, Iradwikanari Waluyo, Adrian Hunt, Eli Stavitski, Sanjaya D. Senanayake, Ping Liu, José A. Rodriguez, Atomic Structural Origin of the High Methanol Selectivity over In2O3–Metal Interfaces: Metal–Support Interactions and the Formation of a InOx Overlayer in Ru/In2O3 Catalysts during CO2 Hydrogenation. ACS Catal., 13(5), 3187-3200 (2023). [doi: 10.1021/acscatal.2c06029]
+
+HIGH IMPACTDahong Huang, Kali Rigby, Weirui Chen, Xuanhao Wu, Junfeng Niu, Eli Stavitski, Jae-Hong Kim, Enhancing the activity of Pd ensembles on graphene by manipulating coordination environment. Proc Natl Acad Sci USA, 120(9) (2023). [doi: 10.1073/pnas.2216879120]
+
+HIGH IMPACTCITED 1 TIMERenjie Liu, John N. El Berch, Stephen House, Samuel W. Meil, Giannis Mpourmpakis, Marc D. Porosoff, Reactive Separations of CO/CO2 mixtures over Ru–Co Single Atom Alloys. ACS Catal., 13(4), 2449-2461 (2023). [doi: 10.1021/acscatal.2c05110]
+
+Qingying Jia, Sanjeev Mukerjee, In situ/operando methods for investigation of ionic transport mechanisms in solid-state architectures, p. 197-222, Elsevier (2023). [doi: 10.1016/B978-0-323-90635-7.00005-1]
+
+Madelyn R. Ball, Laura Proaño, Iman Nezam, Dong‐Chan Lee, Faisal Alamgir, Christopher W. Jones, Citral Hydrogenation over Dilute Alloy Catalysts. ChemCatChem, 15(5) (2023). [doi: 10.1002/cctc.202201396]
+
+HIGH IMPACTCITED 1 TIMEJi Qian, Qi Dong, Kayla Chun, Dongyang Zhu, Xin Zhang, Yimin Mao, James N. Culver, Sheldon Tai, Jennifer R. German, David P. Dean, Jeffrey T. Miller, Liguang Wang, Tianpin Wu, Tian Li, Alexandra H. Brozena, Robert M. Briber, Donald K. Milton, William E. Bentley, Liangbing Hu, Highly stable, antiviral, antibacterial cotton textiles via molecular engineering. Nat. Nanotechnol., 18(2), 168-176 (2023). [doi: 10.1038/s41565-022-01278-y]
+
+Ruoshui Li, Xuance Jiang, Chenyu Zhou, Mehmet Topsakal, Dmytro Nykypanchuk, Klaus Attenkofer, Mark S Hybertsen, Eli Stavitski, Xiaohui Qu, Deyu Lu, Mingzhao Liu, Dario J Stacchiola, Deciphering phase evolution in complex metal oxide thin films via high-throughput materials synthesis and characterization. Nanotech., 34(12), 125701 (2023). [doi: 10.1088/1361-6528/acad09]
+
+CITED 1 TIMETongxin Han, Yuanyuan Li, Yueqiang Cao, Ilkeun Lee, Xinggui Zhou, Anatoly I. Frenkel, Francisco Zaera, In situ identification of surface sites in Cu–Pt bimetallic catalysts: Gas-induced metal segregation. J. Chem. Phys., 157(23), 234706 (2022). [doi: 10.1063/5.0130431]
+
+HIGH IMPACTCITED 12 TIMESDahong Huang, David J. Kim, Kali Rigby, Xuechen Zhou, Xuanhao Wu, Aidan Meese, Eli Stavitski, Elucidating the Role of Single-Atom Pd for Electrocatalytic Hydrodechlorination. Environ. Sci. Tech., 55(19), 13306-13316 (2022). [doi: 10.1021/acs.est.1c04294]
+
+HIGH IMPACTColby A. Whitcomb, Anna Sviripa, Michael I. Schapowal, Konstantin Mamedov, Raymond R. Unocic, Christopher Paolucci, Robert J. Davis, Mechanistic Insights on the Low-Temperature Oxidation of CO Catalyzed by Isolated Co Ions in N-Doped Carbon. ACS Catal., 12(24), 15529-15540 (2022). [doi: 10.1021/acscatal.2c04380]
+
+HIGH IMPACTCITED 5 TIMESFei Xiao, Yian Wang, Gui-Liang Xu, Fei Yang, Shangqian Zhu, Cheng-Jun Sun, Yingdan Cui, Zhiwen Xu, Qinglan Zhao, Juhee Jang, Xiaoyi Qiu, Ershuai Liu, Walter S. Drisdell, Zidong Wei, Meng Gu, Khalil Amine, Minhua Shao, Fe–N–C Boosts the Stability of Supported Platinum Nanoparticles for Fuel Cells. J. Am. Chem. Soc., 144(44), 20372-20384 (2022). [doi: 10.1021/jacs.2c08305]
+
+Cheng-Hung Lin, Revealing Morphological and Chemical Evolution of Li-Ion and Beyond Li-Ion Batteries by Synchrotron X-Ray Characterizations, Dissertation Thesis. Stony Brook University, Stony Brook (2022).
+
+HIGH IMPACTCITED 3 TIMESMinju Chung, Kyoungsuk Jin, Joy S. Zeng, Thu N. Ton, Karthish Manthiram, Tuning Single-Atom Dopants on Manganese Oxide for Selective Electrocatalytic Cyclooctene Epoxidation. J. Am. Chem. Soc., 144(38), 17416-17422 (2022). [doi: 10.1021/jacs.2c04711]
+
+Yang Liu, Maichong Xie, Nicholas Marcella, Alexandre C. Foucher, Eric A. Stach, Marc R. Knecht, Anatoly I. Frenkel, Z-Contrast Enhancement in Au–Pt Nanocatalysts by Correlative X-ray Absorption Spectroscopy and Electron Microscopy: Implications for Composition Determination. ACS Appl. Nanomater., 5(7), 8775-8782 (2022). [doi: 10.1021/acsanm.2c00393]
+
+Jane N. Agwara, Nikki J. Bakas, Michael L. Neidig, Marc D. Porosoff, Challenges and Opportunities of Fe‐based Core‐Shell Catalysts for Fischer‐Tropsch Synthesis. ChemCatChem, 14(19) (2022). [doi: 10.1002/cctc.202200289]
+
+CITED 1 TIMEYu Liu, Zhixiang Hu, Michael O. Ogunbunmi, Eli Stavitski, Klaus Attenkofer, Svilen Bobev, Cedomir Petrovic, Giant Thermoelectric Power Factor Anisotropy in PtSb1.4Sn0.6. Inorg. Chem., 61(34), 13586-13590 (2022). [doi: 10.1021/acs.inorgchem.2c02218]
+
+HIGH IMPACTCITED 2 TIMESYu Liu, Resta A. Susilo, Yongbin Lee, A. M. Milinda Abeykoon, Xiao Tong, Zhixiang Hu, Eli Stavitski, Klaus Attenkofer, Liqin Ke, Bin Chen, Cedomir Petrovic, Short-Range Crystalline Order-Tuned Conductivity in Cr2Si2Te6 van der Waals Magnetic Crystals. ACS Nano, 16(8), 13134-13143 (2022). [doi: 10.1021/acsnano.2c06080]
+
+HIGH IMPACTCITED 6 TIMESWen Ma, Meng Sun, Dahong Huang, Chiheng Chu, Tayler Hedtke, Xiaoxiong Wang, Yumeng Zhao, Jae-Hong Kim, Menachem Elimelech, Catalytic Membrane with Copper Single-Atom Catalysts for Effective Hydrogen Peroxide Activation and Pollutant Destruction. Environ. Sci. Tech., 56(12), 8733-8745 (2022). [doi: 10.1021/acs.est.1c08937]
+
+Lynne LaRochelle-Richard, Platinum Group Metal-Free Oxygen Reduction Reaction Catalysts: Electrochemical and X-ray Spectroscopic Investigations of Cobalt- and Iron-Doped Heterogeneous Catalysts, Ph.D. Thesis. Northeastern University, Boston (2022).
+
+CITED 4 TIMESAifeng Wang, Ana Milosavljevic, A. M. Milinda Abeykoon, Valentin Ivanovski, Qianheng Du, Andreas Baum, Eli Stavitski, Yu Liu, Nenad Lazarevic, Klaus Attenkofer, Rudi Hackl, Zoran Popovic, Cedomir Petrovic, Suppression of Superconductivity and Nematic Order in Fe1–ySe1–xSx (0 ≤ x ≤ 1; y ≤ 0.1) Crystals by Anion Height Disorder. Inorg. Chem., 61(29), 11036-11045 (2022). [doi: 10.1021/acs.inorgchem.2c00568]
+
+CITED 2 TIMESKisa S. Ranasinghe, Rajnish Singh, Denis Leshchev, Angel Vasquez, Eli Stavitski, Ian Foster, Synthesis of Nanoceria with Varied Ratios of Ce3+/Ce4+ Utilizing Soluble Borate Glass. Nanomaterials, 12(14), 2363 (2022). [doi: 10.3390/nano12142363]
+
+HIGH IMPACTCITED 1 TIMEHansen Mou, Qiaowan Chang, Zhenhua Xie, Sooyeon Hwang, Shyam Kattel, Jingguang G. Chen, Enhancing glycerol electrooxidation from synergistic interactions of platinum and transition metal carbides. Appl. Catal. B, 316, 121648 (2022). [doi: 10.1016/j.apcatb.2022.121648]
+
+HIGH IMPACTCITED 18 TIMESJin Huang, Luca Sementa, Zeyan Liu, Giovanni Barcaro, Miao Feng, Ershuai Liu, Li Jiao, Mingjie Xu, Denis Leshchev, Sung-Joon Lee, Mufan Li, Chengzhang Wan, Enbo Zhu, Yang Liu, Bosi Peng, Xiangfeng Duan, William A. Goddard, Alessandro Fortunelli, Qingying Jia, Yu Huang, Experimental Sabatier plot for predictive design of active and stable Pt-alloy oxygen reduction reaction catalysts. Nat. Catal., 5(6), 513-523 (2022). [doi: 10.1038/s41929-022-00797-0]
+
+V. B. Rivera Banuchi, W. Liu, N. Yee, C. Legett, T. D. Glotch, S. M. Chemtob, Ultraviolet Photooxidation of Smectite‐Bound Fe(II) and Implications for the Origin of Martian Nontronites. JGR Planets, 127(5) (2022). [doi: 10.1029/2021JE007150]
+
+Li Jiao, Electrocatalysts for Hydrogen Fuel Cells: From Mechanistic Study to Rational Design, Dissertation Thesis. Northeastern University, Boston (2022).
+
+CITED 3 TIMESDenis Leshchev, Maksim Rakitin, Bruno Luvizotto, Ruslan Kadyrov, Bruce Ravel, Klaus Attenkofer, Eli Stavitski, The Inner Shell Spectroscopy beamline at NSLS-II: a facility for in situ and operando X-ray absorption spectroscopy for materials research. J. Synch. Rad., 29(4), 1095-1106 (2022). [doi: 10.1107/S160057752200460X]
+
+HIGH IMPACTCITED 12 TIMESCorey J. Kaminsky, Sophia Weng, Joshua Wright, Yogesh Surendranath, Adsorbed cobalt porphyrins act like metal surfaces in electrocatalysis. Nat. Catal., 5(5), 430-442 (2022). [doi: 10.1038/s41929-022-00791-6]
+
+CITED 3 TIMESThuy-Duong Nguyen-Phan, Leiming Hu, Bret H. Howard, Wenqian Xu, Eli Stavitski, Denis Leshchev, August Rothenberger, Kenneth C. Neyerlin, Douglas R. Kauffman, High current density electroreduction of CO2 into formate with tin oxide nanospheres. Sci Rep, 12(1) (2022). [doi: 10.1038/s41598-022-11890-6]
+
+Yang Liu, Machine Learning Analysis of Structure - Activity Relationship of Catalytic Clusters, Ph.D. Dissertation Thesis. Stony Brook University, Stony Brook (2022).
+
+Ershuai Liu, Mechanism Studies of Water Electrocatalysis Reactions via in situ X-Ray Absorption Spectroscopy, Ph.D. Dissertation Thesis. Northeastern University, Boston (2022).
+
+HIGH IMPACTCITED 6 TIMESNaomi Miyake, Gordon Brezicki, Robert J. Davis, Cascade Reaction of Ethanol to Butadiene over Multifunctional Silica-Supported Ag and ZrO2 Catalysts. ACS Sustainable Chem. Eng., 10(2), 1020-1035 (2022). [doi: 10.1021/acssuschemeng.1c07459]
+
+CITED 1 TIMENazgol Norouzi, Darrell Omo-Lamai, Farbod Alimohammadi, Timofey Averianov, Jason Kuang, Shan Yan, Lei Wang, Eli Stavitski, Denis Leshchev, Kenneth J. Takeuchi, Esther S. Takeuchi, Amy C. Marschilok, David C. Bock, Ekaterina Pomerantseva, The Dopamine Assisted Synthesis of MoO3/Carbon Electrodes With Enhanced Capacitance in Aqueous Electrolyte. Front. Chem., 10 (2022). [doi: 10.3389/fchem.2022.873462]
+
+CITED 5 TIMESLiang Song, Yun Cai, Yang Liu, Xueru Zhao, Kurian A. Kuttiyiel, Nebojsa Marinkovic, Anatoly I. Frenkel, Anusorn Kongkanand, YongMan Choi, Radoslav R. Adzic, Kotaro Sasaki, One-Step Facile Synthesis of High-Activity Nitrogen-Doped PtNiN Oxygen Reduction Catalyst. ACS Appl. Energy Mater., 5(4), 5245-5255 (2022). [doi: 10.1021/acsaem.2c00631]
+
+HIGH IMPACTCITED 6 TIMESN. Norouzi, T. Averianov, J. Kuang, D.C. Bock, S. Yan, L. Wang, K.J. Takeuchi, E.S. Takeuchi, A.C. Marschilok, E. Pomerantseva, Hierarchically structured MoO2/dopamine-derived carbon spheres as intercalation electrodes for lithium-ion batteries. Materials Today Chemistry, 24, 100783 (2022). [doi: 10.1016/j.mtchem.2022.100783]
+
+Evgeniy Makagon, Junying Li, Yuanyuan Li, Ellen Wachtel, Anatoly I. Frenkel, Igor Lubomirsky, Choosing the metal oxide for an electro-chemo-mechanical actuator working body. Solid State Ionics, 379, 115913 (2022). [doi: 10.1016/j.ssi.2022.115913]
+
+HIGH IMPACTCITED 2 TIMESGhulam Ali, Mobinul Islam, Deu S. Bhange, Young Hwa Jung, Mingyuan Ge, Yong S. Chu, Kyung-Wan Nam, Yonghua Du, Xiao-Qing Yang, Hun-Gi Jung, Seong-Min Bak, Kyung Yoon Chung, Self-standing Co2.4Sn0.6O4 nano rods as high performance anode materials for sodium-ion battery and investigation on its reaction mechanism. Chem. Eng. J., 439, 135791 (2022). [doi: 10.1016/j.cej.2022.135791]
+
+HIGH IMPACTCITED 26 TIMESYu Liu, Myung‐Geun Han, Yongbin Lee, Michael O. Ogunbunmi, Qianheng Du, Christie Nelson, Zhixiang Hu, Eli Stavitski, David Graf, Klaus Attenkofer, Svilen Bobev, Liqin Ke, Yimei Zhu, Cedomir Petrovic, Polaronic Conductivity in Cr 2 Ge 2 Te 6 Single Crystals. Adv. Func. Mater., 32(19), 2105111 (2022). [doi: 10.1002/adfm.202105111]
+
+HIGH IMPACTCITED 6 TIMESZhenhua Xie, Xuelong Wang, Xiaobo Chen, Ping Liu, Jingguang G. Chen, General Descriptors for CO2-Assisted Selective C–H/C–C Bond Scission in Ethane. J. Am. Chem. Soc., 144(9), 4186-4195 (2022). [doi: 10.1021/jacs.1c13415]
+
+CITED 2 TIMESYu Liu, Zhixiang Hu, Xiao Tong, Denis Leshchev, Xiangde Zhu, Hechang Lei, Eli Stavitski, Klaus Attenkofer, C. Petrovic, Thermal transport and mixed valence in ZrTe3 doped with Hf and Se. Appl. Phys. Lett., 120(2), 022601 (2022). [doi: 10.1063/5.0079558]
+
+HIGH IMPACTCITED 12 TIMESSantanu Roy, Yang Liu, Mehmet Topsakal, Elaine Dias, Ruchi Gakhar, William C. Phillips, James F. Wishart, Denis Leshchev, Phillip Halstenberg, Sheng Dai, Simerjeet K. Gill, Anatoly I. Frenkel, Vyacheslav S. Bryantsev, A Holistic Approach for Elucidating Local Structure, Dynamics, and Speciation in Molten Salts with High Structural Disorder. J. Am. Chem. Soc., 143(37), 15298-15308 (2021). [doi: 10.1021/jacs.1c06742]
+
+CITED 9 TIMESYimeng Lyu, Jennifer N. Jocz, Rui Xu, Olivia C. Williams, Carsten Sievers, Selective Oxidation of Methane to Methanol over Ceria‐Zirconia Supported Mono and Bimetallic Transition Metal Oxide Catalysts. ChemCatChem, 13(12), 2832-2842 (2021). [doi: 10.1002/cctc.202100268]
+
+CITED 21 TIMESSeunghyun Weon, Min-Jeong Suh, Chiheng Chu, Dahong Huang, Eli Stavitski, Jae-Hong Kim, Site-Selective Loading of Single-Atom Pt on TiO2 for Photocatalytic Oxidation and Reductive Hydrodefluorination. ACS EST Eng., 1(3), 512-522 (2021). [doi: 10.1021/acsestengg.0c00210]
+
+CITED 4 TIMESCheng Sun, Chao Jiang, Ericmoore Jossou, Mehmet Topsakal, Simerjeet K. Gill, Lynne E. Ecker, Jian Gan, Self-assembly of solid nanoclusters in molybdenum under gas ion implantation. Scripta Mater., 194, 113651 (2021). [doi: 10.1016/j.scriptamat.2020.113651]
+
+CITED 5 TIMESHuong Doan, Ian Kendrick, Remi Blanchard, Qingying Jia, Ellie Knecht, Andrew Freeman, Tanner Jankins, Michael K. Bates, Sanjeev Mukerjee, Functionalized Embedded Monometallic Nickel Catalysts for Enhanced Hydrogen Evolution: Performance and Stability. J. Electrochem. Soc., 168(8), 084501 (2021). [doi: 10.1149/1945-7111/ac11a1]
+
+CITED 7 TIMESWang Wang, Ershuai Liu, Youcheng Hu, Li Jiao, Praveen Kolla, Yucheng Liu, Meihua Tang, Jin Luo, Qiang Sun, Shengli Chen, Qingying Jia, Sanjeev Mukerjee, Understanding the ORR Electrocatalysis on Co–Mn Oxides. J. Phys. Chem. C, 125(46), 25470-25477 (2021). [doi: 10.1021/acs.jpcc.1c00104]
+
+HIGH IMPACTCITED 122 TIMESChunpeng Yang, Qisheng Wu, Weiqi Xie, Xin Zhang, Alexandra Brozena, Jin Zheng, Mounesha N. Garaga, Byung Hee Ko, Yimin Mao, Shuaiming He, Yue Gao, Pengbo Wang, Madhusudan Tyagi, Feng Jiao, Robert Briber, Paul Albertus, Chunsheng Wang, Steven Greenbaum, Yan-Yan Hu, Akira Isogai, Martin Winter, Kang Xu, Yue Qi, Liangbing Hu, Copper-coordinated cellulose ion conductors for solid-state batteries. Nature, 598(7882), 590-596 (2021). [doi: 10.1038/s41586-021-03885-6]
+
+Nicholas Marcella, Decoding Reactive Structures in Bimetallic Catalysts, Ph.D. Thesis. Stony Brook University, Stony Brook (2021).
+
+HIGH IMPACTCITED 1 TIMEMary O. Olagunju, Yang Liu, Anatoly I. Frenkel, Marc R. Knecht, Atomically Resolved Characterization of Optically Driven Ligand Reconfiguration on Nanoparticle Catalyst Surfaces. ACS Appl. Mater. Interfaces, 13(37), 44302-44311 (2021). [doi: 10.1021/acsami.1c11256]
+
+HIGH IMPACTCITED 34 TIMESChiheng Chu, Dahong Huang, Srishti Gupta, Seunghyun Weon, Junfeng Niu, Eli Stavitski, Christopher Muhich, Jae-Hong Kim, Neighboring Pd single atoms surpass isolated single atoms for selective hydrodehalogenation catalysis. Nat. Comm., 12(1) (2021). [doi: 10.1038/s41467-021-25526-2]
+
+HIGH IMPACTCITED 6 TIMESHai L. Feng, Chang-Jong Kang, Bongjae Kim, Kyoo Kim, Mark Croft, Sizhan Liu, Trevor A. Tyson, Eli Stavitski, Rui Zu, Venkatraman Gopalan, Saul H. Lapidus, Corey E. Frank, Youguo Shi, David Walker, Martha Greenblatt, A Polar Magnetic and Insulating Double Corundum Oxide: Mn2MnSbO6 with Ordered Mn(II) and Mn(III) Ions. Chem. Mater., 33(16), 6522-6529 (2021). [doi: 10.1021/acs.chemmater.1c02046]
+
+HIGH IMPACTCITED 70 TIMESShuo Zhang, Tayler Hedtke, Qianhong Zhu, Meng Sun, Seunghyun Weon, Yumeng Zhao, Eli Stavitski, Menachem Elimelech, Jae-Hong Kim, Membrane-Confined Iron Oxychloride Nanocatalysts for Highly Efficient Heterogeneous Fenton Water Treatment. Environ. Sci. Tech., 55(13), 9266-9275 (2021). [doi: 10.1021/acs.est.1c01391]
+
+Michael T. Payne, Constanze N. Neumann, Eli Stavitski, Mircea Dincǎ, Complexes of Platinum Group Metals with a Conformationally Locked Scorpionate in a Metal–Organic Framework: An Unusually Close Apical Interaction of Palladium(II). Inorg. Chem., 60(16), 11764-11774 (2021). [doi: 10.1021/acs.inorgchem.1c00941]
+
+Lauren Nicole Pincus, Toward Sustainable Water Treatment: Design of Multifunctional and Selective Water Treatment Technologies, Dissertation Thesis. Yale University, New Haven (2021).
+
+CITED 11 TIMESYuntao Gu, Silvia Marino, Marina Cortés-Reyes, Izabela S. Pieta, Josh A. Pihl, William S. Epling, Integration of an Oxidation Catalyst with Pd/Zeolite-Based Passive NOx Adsorbers: Impacts on Degradation Resistance and Desorption Characteristics. Ind. Eng. Chem. Res., 60(18), 6455-6464 (2021). [doi: 10.1021/acs.iecr.0c05186]
+
+CITED 7 TIMESMalik Albrahim, Coogan Thompson, Denis Leshchev, Abhijit Shrotri, Raymond R. Unocic, Jiyun Hong, Adam S. Hoffman, Michael J. Meloni, Ron C. Runnebaum, Simon R. Bare, Eli Stavitski, Ayman M. Karim, Reduction and Agglomeration of Supported Metal Clusters Induced by High-Flux X-ray Absorption Spectroscopy Measurements. J. Phys. Chem. C, 125(20), 11048-11057 (2021). [doi: 10.1021/acs.jpcc.1c01823]
+
+CITED 1 TIMEA. Alexander, M. Gaowei, S. Mistry, J. Walsh, F. Liu, K. Evans-Lutterodt, E. Stavitski, V. Pavlenko, J. Smedley, N. Moody, Robust method for broadband efficiency enhancement of electron photocathodes using optical interferences. AIP Adv., 11(6), 065325 (2021). [doi: 10.1063/5.0050691]
+
+HIGH IMPACTCITED 8 TIMESLi Jiao, Ershuai Liu, Sooyeon Hwang, Sanjeev Mukerjee, Qingying Jia, Compressive Strain Reduces the Hydrogen Evolution and Oxidation Reaction Activity of Platinum in Alkaline Solution. ACS Catal., 8165-8173 (2021). [doi: 10.1021/acscatal.1c01723]
+
+CITED 7 TIMESYu Liu, Zhixiang Hu, Milinda Abeykoon, Eli Stavitski, Klaus Attenkofer, Eric D. Bauer, C. Petrovic, Polaronic transport and thermoelectricity in Mn3Si2Te6 single crystals. Phys. Rev. B, 103(24) (2021). [doi: 10.1103/PhysRevB.103.245122]
+
+HIGH IMPACTCITED 195 TIMESLi Jiao, Jingkun Li, Lynne LaRochelle Richard, Qiang Sun, Thomas Stracensky, Ershuai Liu, Moulay Tahar Sougrati, Zipeng Zhao, Fan Yang, Sichen Zhong, Hui Xu, Sanjeev Mukerjee, Yu Huang, David A. Cullen, Jae Hyung Park, Magali Ferrandon, Deborah J. Myers, Frédéric Jaouen, Qingying Jia, Chemical vapour deposition of Fe–N–C oxygen reduction catalysts with full utilization of dense Fe–N4 sites. Nat. Mater., 20(10), 1385-1391 (2021). [doi: 10.1038/s41563-021-01030-2]
+
+CITED 9 TIMESYu Liu, Zhixiang Hu, Eli Stavitski, Klaus Attenkofer, C. Petrovic, Magnetic critical behavior and anomalous Hall effect in 2H−Co0.22TaS2 single crystals. Phys. Rev. Research, 3(2) (2021). [doi: 10.1103/PhysRevResearch.3.023181]
+
+CITED 2 TIMESYiyao Tian, Alexey L. Kaledin, Daniel L. Collins-Wildman, Victoria G. Snider, Djamaladdin G. Musaev, Craig L. Hill, Anatoly I. Frenkel, Polyniobate Nanothreads for Decomposition of the Nerve Agent Simulant Dimethyl Chlorophosphate. ACS Appl. Nanomater., 4(6), 5649-5654 (2021). [doi: 10.1021/acsanm.1c00813]
+
+HIGH IMPACTCITED 12 TIMESGordon Brezicki, Jonathan Zheng, Christopher Paolucci, Robert Schlögl, Robert J. Davis, Effect of the Co-cation on Cu Speciation in Cu-Exchanged Mordenite and ZSM-5 Catalysts for the Oxidation of Methane to Methanol. ACS Catal., 11(9), 4973-4987 (2021). [doi: 10.1021/acscatal.1c00543]
+
+CITED 9 TIMESYu Liu, Zhixiang Hu, Eli Stavitski, Klaus Attenkofer, C. Petrovic, Three-dimensional ferromagnetism and magnetotransport in van der Waals Mn-intercalated tantalum disufide. Phys. Rev. B, 103(14) (2021). [doi: 10.1103/PhysRevB.103.144432]
+
+HIGH IMPACTCITED 9 TIMESYuanyuan Li, Anatoly I. Frenkel, Deciphering the Local Environment of Single-Atom Catalysts with X-ray Absorption Spectroscopy. Acct. Chem. Res., 54(11), 2660-2669 (2021). [doi: 10.1021/acs.accounts.1c00180]
+
+HIGH IMPACTCITED 18 TIMESDahong Huang, Ning He, Qianhong Zhu, Chiheng Chu, Seunghyun Weon, Kali Rigby, Xuechen Zhou, Lei Xu, Junfeng Niu, Eli Stavitski, Jae-Hong Kim, Conflicting Roles of Coordination Number on Catalytic Performance of Single-Atom Pt Catalysts. ACS Catal., 11(9), 5586-5592 (2021). [doi: 10.1021/acscatal.1c00627]
+
+HIGH IMPACTCITED 8 TIMESEunjik Lee, Kurian A. Kuttiyiel, Kyoung-Hee Kim, Jeongyun Jang, Hyo J. Lee, Jong M. Lee, Min H. Seo, Tae-Hyun Yang, Sung-Dae Yim, Jorge A. Vargas, Valeri Petkov, Kotaro Sasaki, Radoslav R. Adzic, Gu-Gon Park, High Pressure Nitrogen-Infused Ultrastable Fuel Cell Catalyst for Oxygen Reduction Reaction. ACS Catal., 11(9), 5525-5531 (2021). [doi: 10.1021/acscatal.1c00395]
+
+HIGH IMPACTCITED 92 TIMESChiheng Chu, Ji Yang, Xuechen Zhou, Dahong Huang, Haifeng Qi, Seunghyun Weon, Jianfeng Li, Menachem Elimelech, Aiqin Wang, Jae-Hong Kim, Cobalt Single Atoms on Tetrapyridomacrocyclic Support for Efficient Peroxymonosulfate Activation. Environ. Sci. Tech., 55(2), 1242-1250 (2021). [doi: 10.1021/acs.est.0c06086]
+
+CITED 13 TIMESKillian R. Tallman, Garrett P. Wheeler, Christopher J. Kern, Eli Stavitski, Xiao Tong, Kenneth J. Takeuchi, Amy C. Marschilok, David C. Bock, Esther S. Takeuchi, Nickel-rich Nickel Manganese Cobalt (NMC622) Cathode Lithiation Mechanism and Extended Cycling Effects Using Operando X-ray Absorption Spectroscopy. J. Phys. Chem. C, 125(1), 58-73 (2021). [doi: 10.1021/acs.jpcc.0c08095]
+
+HIGH IMPACTCITED 8 TIMESXiaohui Qu, Danhua Yan, Ruoshui Li, Jiajie Cen, Chenyu Zhou, Wenrui Zhang, Deyu Lu, Klaus Attenkofer, Dario J. Stacchiola, Mark S. Hybertsen, Eli Stavitski, Mingzhao Liu, Resolving the Evolution of Atomic Layer-Deposited Thin-Film Growth by Continuous In Situ X-Ray Absorption Spectroscopy. Chem. Mater., 33(5), 1740-1751 (2021). [doi: 10.1021/acs.chemmater.0c04547]
+
+HIGH IMPACTCITED 12 TIMESSimerjeet K. Gill, Jagadeesh Sure, Yachun Wang, Bobby Layne, Lingfeng He, Shannon Mahurin, James F. Wishart, Kotaro Sasaki, Investigating corrosion behavior of Ni and Ni-20Cr in molten ZnCl2. Corros. Sci., 179, 109105 (2021). [doi: 10.1016/j.corsci.2020.109105]
+
+Karoline Hebisch, Mechanocatalytic Ammonia Synthesis over Titanium Dioxide Catalysts, PhD Thesis. Technische Universität Darmstadt, Darmstadt (2021).
+
+CITED 9 TIMESElaine T. Dias, Simerjeet K. Gill, Yang Liu, Phillip Halstenberg, Sheng Dai, Jiahao Huang, Julia Mausz, Ruchi Gakhar, William C. Phillips, Shannon Mahurin, Simon M. Pimblott, James F. Wishart, Anatoly I. Frenkel, Radiation-Assisted Formation of Metal Nanoparticles in Molten Salts. J. Phys. Chem. Lett., 12(1), 157-164 (2021). [doi: 10.1021/acs.jpclett.0c03231]
+
+HIGH IMPACTCITED 28 TIMESLauren N. Pincus, Predrag V. Petrović, Isabel S. Gonzalez, Eli Stavitski, Zachary S. Fishman, Holly E. Rudel, Paul T. Anastas, Julie B. Zimmerman, Selective adsorption of arsenic over phosphate by transition metal cross-linked chitosan. Chem. Eng. J., 412, 128582 (2021). [doi: 10.1016/j.cej.2021.128582]
+
+Corey Kaminsky, Environmental Tuning of the Reactivity of Molecules Confined to Polarized Interfaces, PhD Dissertation Thesis. Massachusetts Institute of Technology, Cambridge (2021).
+
+HIGH IMPACTCITED 27 TIMESZihao Zhang, Siyu Yao, Xiaobing Hu, Kun He, Pingying Liu, Ziqi Tian, Vinayak P. Dravid, Jie Fu, Xiang Zhu, Francis Okejiri, Sheng Dai, Sacrificial Synthesis of Supported Ru Single Atoms and Clusters on N‐doped Carbon Derived from Covalent Triazine Frameworks: A Charge Modulation Approach. Adv. Sci., 8(3), 2001493 (2021). [doi: 10.1002/advs.202001493]
+
+HIGH IMPACTCITED 11 TIMESJi Hoon Lee, Shyam Kattel, Yan Wang, Brian M. Tackett, Zhenhua Xie, Sooyeon Hwang, Steven R. Denny, Wenqian Xu, Jingguang G. Chen, Prussian blue analogues as platform materials for understanding and developing oxygen evolution reaction electrocatalysts. J. Catal., 393, 390-398 (2021). [doi: 10.1016/j.jcat.2020.12.002]
+
+HIGH IMPACTCITED 15 TIMESRenjie Liu, Denis Leshchev, Eli Stavitski, Mitchell Juneau, Jane N. Agwara, Marc D. Porosoff, Selective hydrogenation of CO2 and CO over potassium promoted Co/ZSM-5. Appl. Catal. B, 284, 119787 (2021). [doi: 10.1016/j.apcatb.2020.119787]
+
+CITED 4 TIMESSean Najmi, Jungseob So, Eli Stavitski, William P. McDermott, Yimeng Lyu, Sam P. Burt, Ive Hermans, David S. Sholl, Carsten Sievers, In‐situ IR Spectroscopy Study of Reactions of C3 Oxygenates on Heteroatom (Sn, Mo, and W) doped BEA Zeolites and the Effect of Co‐adsorbed Water. ChemCatChem, 13(1), 445-458 (2021). [doi: 10.1002/cctc.202001424]
+
+HIGH IMPACTMathilde Luneau, Erjia Guan, Wei Chen, Alexandre C. Foucher, Nicholas Marcella, Tanya Shirman, David M. A. Verbart, Joanna Aizenberg, Michael Aizenberg, Eric A. Stach, Robert J. Madix, Anatoly I. Frenkel, Cynthia M. Friend, Author Correction: Enhancing catalytic performance of dilute metal alloy nanomaterials. Commun Chem, 3(1) (2020). [doi: 10.1038/s42004-020-0310-5]
+
+CITED 26 TIMESLuis E. Betancourt, Arnulfo Rojas-Pérez, Ivan Orozco, Anatoly I. Frenkel, Yuanyuan Li, Kotaro Sasaki, Sanjaya D. Senanayake, Carlos R. Cabrera, Enhancing ORR Performance of Bimetallic PdAg Electrocatalysts by Designing Interactions between Pd and Ag. ACS Appl. Energy Mater., 3(3), 2342-2349 (2020). [doi: 10.1021/acsaem.9b01920]
+
+HIGH IMPACTCITED 51 TIMESKeka Mandal, Yuntao Gu, Karl S. Westendorff, Sichi Li, Josh A. Pihl, Lars C. Grabow, William S. Epling, Christopher Paolucci, Condition-Dependent Pd Speciation and NO Adsorption in Pd/Zeolites. ACS Catal., 10(21), 12801-12818 (2020). [doi: 10.1021/acscatal.0c03585]
+
+HIGH IMPACTCITED 50 TIMESByung Hee Ko, Bjorn Hasa, Haeun Shin, Emily Jeng, Sean Overa, Wilson Chen, Feng Jiao, The impact of nitrogen oxides on electrochemical carbon dioxide reduction. Nat. Comm., 11(1) (2020). [doi: 10.1038/s41467-020-19731-8]
+
+HIGH IMPACTCITED 5 TIMESWenrui Zhang, Shaobo Cheng, Christopher M. Rouleau, Kyle P. Kelley, Jong Keum, Eli Stavitski, Yimei Zhu, Matthew F. Chisholm, Zheng Gai, Gyula Eres, Unusual electrical conductivity driven by localized stoichiometry modification at vertical epitaxial interfaces. Mater. Horiz., 7(12), 3217-3225 (2020). [doi: 10.1039/d0mh01324b]
+
+Amani Ebrahim, Investigation of Structure - Property Relationships in Multifunctional Porous Materials Using In-Situ X-ray Methods, PhD Dissertation Thesis. Stony Brook University, Stony Brook (2020).
+
+HIGH IMPACTCITED 45 TIMESYimeng Lyu, Jennifer Jocz, Rui Xu, Eli Stavitski, Carsten Sievers, Nickel Speciation and Methane Dry Reforming Performance of Ni/CexZr1–xO2 Prepared by Different Synthesis Methods. ACS Catal., 10(19), 11235-11252 (2020). [doi: 10.1021/acscatal.0c02426]
+
+HIGH IMPACTCITED 30 TIMESMaria R. Lukatskaya, Dawei Feng, Seong-Min Bak, John W.F. To, Xiao-Qing Yang, Yi Cui, Jeremy I. Feldblyum, Zhenan Bao, Understanding the Mechanism of High Capacitance in Nickel Hexaaminobenzene-Based Conductive Metal–Organic Frameworks in Aqueous Electrolytes. ACS Nano, 14(11), 15919-15925 (2020). [doi: 10.1021/acsnano.0c07292]
+
+CITED 12 TIMESLauren Hanna, Conor L. Long, Xiaoyi Zhang, Jenny V. Lockard, Heterometal incorporation in NH2-MIL-125(Ti) and its participation in the photoinduced charge-separated excited state. Chem. Commun., 56(78), 11597-11600 (2020). [doi: 10.1039/d0cc05339b]
+
+HIGH IMPACTCITED 12 TIMESEnbo Zhu, Wang Xue, Shiyi Wang, Xucheng Yan, Jingxuan Zhou, Yang Liu, Jin Cai, Ershuai Liu, Qingying Jia, Xiangfeng Duan, Yujing Li, Hendrik Heinz, Yu Huang, Enhancement of oxygen reduction reaction activity by grain boundaries in platinum nanostructures. Nano Res., 13(12), 3310-3314 (2020). [doi: 10.1007/s12274-020-3007-2]
+
+HIGH IMPACTCITED 262 TIMESLili Han, Shoujie Song, Mingjie Liu, Siyu Yao, Zhixiu Liang, Hao Cheng, Zhouhong Ren, Wei Liu, Ruoqian Lin, Gaocan Qi, Xijun Liu, Qin Wu, Jun Luo, Huolin L. Xin, Stable and Efficient Single-Atom Zn Catalyst for CO2 Reduction to CH4. J. Am. Chem. Soc., 142(29), 12563-12567 (2020). [doi: 10.1021/jacs.9b12111]
+
+HIGH IMPACTCITED 24 TIMESDimitriy Vovchok, Cheng Zhang, Sooyeon Hwang, Luyun Jiao, Feng Zhang, Zongyuan Liu, Sanjaya D. Senanayake, Jose A. Rodriguez, Deciphering Dynamic Structural and Mechanistic Complexity in Cu/CeO2/ZSM-5 Catalysts for the Reverse Water-Gas Shift Reaction. ACS Catal., 10(17), 10216-10228 (2020). [doi: 10.1021/acscatal.0c01584]
+
+HIGH IMPACTCITED 11 TIMESAndrew W. Tricker, Karoline L. Hebisch, Marco Buchmann, Yu-Hsuan Liu, Marcus Rose, Eli Stavitski, Andrew J. Medford, Marta C. Hatzell, Carsten Sievers, Mechanocatalytic Ammonia Synthesis over TiN in Transient Microenvironments. ACS Energy Lett., 5(11), 3362-3367 (2020). [doi: 10.1021/acsenergylett.0c01895]
+
+CITED 9 TIMESYu Liu, R. J. Koch, Zhixiang Hu, Niraj Aryal, Eli Stavitski, Xiao Tong, Klaus Attenkofer, E. S. Bozin, Weiguo Yin, C. Petrovic, Three-dimensional Ising ferrimagnetism of Cr-Fe-Cr trimers in FeCr2Te4. Phys. Rev. B, 102(8) (2020). [doi: 10.1103/PhysRevB.102.085158]
+
+HIGH IMPACTCITED 14 TIMESWenrui Zhang, Alessandro R. Mazza, Elizabeth Skoropata, Debangshu Mukherjee, Brianna Musico, Jie Zhang, Veerle M. Keppens, Lihua Zhang, Kim Kisslinger, Eli Stavitski, Matthew Brahlek, John W. Freeland, Ping Lu, Thomas Z. Ward, Applying Configurational Complexity to the 2D Ruddlesden–Popper Crystal Structure. ACS Nano, 14(10), 13030-13037 (2020). [doi: 10.1021/acsnano.0c04487]
+
+CITED 15 TIMESAifeng Wang, Sviatoslav Baranets, Yu Liu, Xiao Tong, E. Stavitski, Jing Zhang, Yisheng Chai, Wei-Guo Yin, Svilen Bobev, C. Petrovic, Magnetic mixed valent semimetal EuZnSb2 with Dirac states in the band structure. Phys. Rev. Research, 2(3) (2020). [doi: 10.1103/PhysRevResearch.2.033462]
+
+HIGH IMPACTCITED 18 TIMESLi Jiao, Ershuai Liu, Sanjeev Mukerjee, Qingying Jia, In Situ Identification of Non-Specific Adsorption of Alkali Metal Cations on Pt Surfaces and Their Catalytic Roles in Alkaline Solutions. ACS Catal., 10(19), 11099-11109 (2020). [doi: 10.1021/acscatal.0c02762]
+
+HIGH IMPACTCITED 40 TIMESZhenhua Xie, Dong Tian, Meng Xie, Shi-Ze Yang, Yuanguo Xu, Ning Rui, Ji Hoon Lee, Sanjaya D. Senanayake, Kongzhai Li, Hua Wang, Shyam Kattel, Jingguang G. Chen, Interfacial Active Sites for CO2 Assisted Selective Cleavage of C–C/C–H Bonds in Ethane. Chem, 6(10), 2703-2716 (2020). [doi: 10.1016/j.chempr.2020.07.011]
+
+HIGH IMPACTCITED 88 TIMESNing Rui, Feng Zhang, Kaihang Sun, Zongyuan Liu, Wenqian Xu, Eli Stavitski, Sanjaya D. Senanayake, José A. Rodriguez, Chang-Jun Liu, Hydrogenation of CO2 to Methanol on a Auδ+–In2O3–x Catalyst. ACS Catal., 10(19), 11307-11317 (2020). [doi: 10.1021/acscatal.0c02120]
+
+HIGH IMPACTCITED 46 TIMESErshuai Liu, Li Jiao, Jingkun Li, Thomas Stracensky, Qiang Sun, Sanjeev Mukerjee, Qingying Jia, Interfacial water shuffling the intermediates of hydrogen oxidation and evolution reactions in aqueous media. Energy Environ. Sci., 13(9), 3064-3074 (2020). [doi: 10.1039/D0EE01754J]
+
+HIGH IMPACTCITED 44 TIMESDahong Huang, Kaixuan Wang, Junfeng Niu, Chiheng Chu, Seunghyun Weon, Qianhong Zhu, Jianjiang Lu, Eli Stavitski, Jae-Hong Kim, Amorphous Pd-Loaded Ti4O7 Electrode for Direct Anodic Destruction of Perfluorooctanoic Acid. Environ. Sci. Tech., 54(17), 10954-10963 (2020). [doi: 10.1021/acs.est.0c03800]
+
+HIGH IMPACTCITED 25 TIMESChenyu Zhou, Zachary Sanders-Bellis, Tyler J. Smart, Wenrui Zhang, Lihua Zhang, Yuan Ping, Mingzhao Liu, Interstitial Lithium Doping in BiVO4 Thin Film Photoanode for Enhanced Solar Water Splitting Activity. Chem. Mater., 32(15), 6401-6409 (2020). [doi: 10.1021/acs.chemmater.0c01481]
+
+HIGH IMPACTCITED 29 TIMESHai Wang, Dongyang Xu, Erjia Guan, Liang Wang, Jian Zhang, Chengtao Wang, Sai Wang, Hua Xu, Xiangju Meng, Bo Yang, Bruce C. Gates, Feng-Shou Xiao, Atomically Dispersed Ru on Manganese Oxide Catalyst Boosts Oxidative Cyanation. ACS Catal., 10(11), 6299-6308 (2020). [doi: 10.1021/acscatal.0c00485]
+
+HIGH IMPACTCITED 7 TIMESGerald F. Manbeck, Dmitry E. Polyansky, Etsuko Fujita, Comprehensive Mechanisms of Electrocatalytic CO2 Reduction by [Ir(bip)(ppy)(CH3CN)](PF6)2. ACS Catal., 10(11), 6497-6509 (2020). [doi: 10.1021/acscatal.9b04371]
+
+HIGH IMPACTCITED 32 TIMESMathilde Luneau, Erjia Guan, Wei Chen, Alexandre C. Foucher, Nicholas Marcella, Tanya Shirman, David M. A. Verbart, Joanna Aizenberg, Michael Aizenberg, Eric A. Stach, Robert J. Madix, Anatoly I. Frenkel, Cynthia M. Friend, Enhancing catalytic performance of dilute metal alloy nanomaterials. Commun Chem, 3(1) (2020). [doi: 10.1038/s42004-020-0293-2]
+
+CITED 5 TIMESJohn Hill, Stuart Campbell, Gabriella Carini, Yu-Chen Karen Chen-Wiegart, Yong Chu, Andrei Fluerasu, Masafumi Fukuto, Mourad Idir, Jean Jakoncic, Ignace Jarrige, Peter Siddons, Toshi Tanabe, Kevin G Yager, Future trends in synchrotron science at NSLS-II. J. Phys.: Condens. Matter, 32(37), 374008 (2020). [doi: 10.1088/1361-648X/ab7b19]
+
+HIGH IMPACTCITED 41 TIMESMitchell Juneau, Madeline Vonglis, Joseph Hartvigsen, Lyman Frost, Dylan Bayerl, Mudit Dixit, Giannis Mpourmpakis, James R. Morse, Jeffrey W. Baldwin, Heather D. Willauer, Marc D. Porosoff, Assessing the viability of K-Mo2C for reverse water–gas shift scale-up: molecular to laboratory to pilot scale. Energy Environ. Sci., 13(8), 2524-2539 (2020). [doi: 10.1039/d0ee01457e]
+
+CITED 2 TIMESLauren N. Pincus, Isabel S. Gonzalez, Eli Stavitski, Julie B. Zimmerman, Aerobic oxidation of arsenite to arsenate by Cu(ii)–chitosan/O2 in Fenton-like reaction, a XANES investigation. Environ. Sci.: Water Res. Technol., 6(10), 2713-2722 (2020). [doi: 10.1039/D0EW00326C]
+
+HIGH IMPACTCITED 9 TIMESKenna L. Salvatore, Kaixi Deng, Shiyu Yue, Scott C. McGuire, José A. Rodriguez, Stanislaus S. Wong, Optimized Microwave-Based Synthesis of Thermally Stable Inverse Catalytic Core–shell Motifs for CO2 Hydrogenation. ACS Appl. Mater. Interfaces, 12(29), 32591-32603 (2020). [doi: 10.1021/acsami.0c06430]
+
+CITED 15 TIMESKaixi Deng, Lili Lin, Ning Rui, Dimitriy Vovchok, Feng Zhang, Shuhao Zhang, Sanjaya D. Senanayake, Taejin Kim, José A. Rodriguez, Studies of CO2 hydrogenation over cobalt/ceria catalysts with in situ characterization: the effect of cobalt loading and metal–support interactions on the catalytic activity. Catal. Sci. Tech., 10(19), 6468-6482 (2020). [doi: 10.1039/d0cy00962h]
+
+HIGH IMPACTCITED 12 TIMESSean Najmi, Mathew Rasmussen, Giada Innocenti, Chaoyi Chang, Eli Stavitski, Simon R. Bare, Andrew J. Medford, J. Will Medlin, Carsten Sievers, Pretreatment Effects on the Surface Chemistry of Small Oxygenates on Molybdenum Trioxide. ACS Catal., 10(15), 8187-8200 (2020). [doi: 10.1021/acscatal.0c01992]
+
+HIGH IMPACTCITED 27 TIMESKotaro Sasaki, Kurian A. Kuttiyiel, Radoslav R. Adzic, Designing high performance Pt monolayer core–shell electrocatalysts for fuel cells. Curr. Opin. Electrochem., 21, 368-375 (2020). [doi: 10.1016/j.coelec.2020.03.020]
+
+HIGH IMPACTCITED 27 TIMESLiang Song, Zhixiu Liang, Kiyotaka Nagamori, Hiroshi Igarashi, Miomir B. Vukmirovic, Radoslav R. Adzic, Kotaro Sasaki, Enhancing Oxygen Reduction Performance of Pt Monolayer Catalysts by Pd(111) Nanosheets on WNi Substrates. ACS Catal., 10(7), 4290-4298 (2020). [doi: 10.1021/acscatal.0c00040]
+
+CITED 20 TIMESTianyu Zhang, Lili Lin, Zhengyuan Li, Xingyu He, Shengdong Xiao, Vesselin N. Shanov, Jingjie Wu, Nickel–Nitrogen–Carbon Molecular Catalysts for High Rate CO2 Electro-reduction to CO: On the Role of Carbon Substrate and Reaction Chemistry. ACS Appl. Energy Mater., 3(2), 1617-1626 (2020). [doi: 10.1021/acsaem.9b02112]
+
+CITED 22 TIMESNicholas Marcella, Yang Liu, Janis Timoshenko, Erjia Guan, Mathilde Luneau, Tanya Shirman, Anna M. Plonka, Jessi E. S. van der Hoeven, Joanna Aizenberg, Cynthia M. Friend, Anatoly I. Frenkel, Neural network assisted analysis of bimetallic nanocatalysts using X-ray absorption near edge structure spectroscopy. Phys. Chem. Chem. Phys., 22(34), 18902-18910 (2020). [doi: 10.1039/D0CP02098B]
+
+HIGH IMPACTCITED 33 TIMESZhenhua Xie, Yuanguo Xu, Meng Xie, Xiaobo Chen, Ji Hoon Lee, Eli Stavitski, Shyam Kattel, Jingguang G. Chen, Reactions of CO2 and ethane enable CO bond insertion for production of C3 oxygenates. Nat. Comm., 11(1) (2020). [doi: 10.1038/s41467-020-15849-x]
+
+HIGH IMPACTCITED 16 TIMESCheng-Hung Lin, Mehmet Topsakal, Ke Sun, Jianming Bai, Chonghang Zhao, Eric Dooryhee, Paul Northrup, Hong Gan, Deyu Lu, Eli Stavitski, Yu-chen Karen Chen-Wiegart, Operando structural and chemical evolutions of TiS2 in Na-ion batteries. J. Mater. Chem. A, 8(25), 12339-12350 (2020). [doi: 10.1039/D0TA00226G]
+
+CITED 5 TIMESJames D. Kammert, Gordon Brezicki, Raul Acevedo-Esteves, Eli Stavitski, Robert J. Davis, High-throughput operando-ready X-ray absorption spectroscopy flow reactor cell for powder samples. Rev. Sci. Instrum., 91(1), 013107 (2020). [doi: 10.1063/1.5124301]
+
+HIGH IMPACTCITED 122 TIMESQun He, Ji Hoon Lee, Daobin Liu, Yumeng Liu, Zhexi Lin, Zhenhua Xie, Sooyeon Hwang, Shyam Kattel, Li Song, Jingguang G. Chen, Accelerating CO 2 Electroreduction to CO Over Pd Single‐Atom Catalyst. Adv. Func. Mater., 30(17), 2000407 (2020). [doi: 10.1002/adfm.202000407]
+
+HIGH IMPACTCITED 160 TIMESChiheng Chu, Qianhong Zhu, Zhenhua Pan, Srishti Gupta, Dahong Huang, Yonghua Du, Seunghyun Weon, Yueshen Wu, Christopher Muhich, Eli Stavitski, Kazunari Domen, Jae-Hong Kim, Spatially separating redox centers on 2D carbon nitride with cobalt single atom for photocatalytic H2O2production. Proc Natl Acad Sci USA, 117(12), 6376-6382 (2020). [doi: 10.1073/pnas.1913403117]
+
+Yu-Chen Karen Chen-Wiegart, Iradwikanari Waluyo, Andrew Kiss, Stuart Campbell, Lin Yang, Eric Dooryhee, Jason R. Trelewicz, Yiyang Li, Bruce Gates, Mark Rivers, Kevin G. Yager, Multimodal Synchrotron Approach: Research Needs and Scientific Vision. Synch. Rad. News, 33(1), 44-47 (2020). [doi: 10.1080/08940886.2020.1701380]
+
+CITED 4 TIMESMengnan Zou, Jen Bohon, John Smedley, James Distel, Kyle Schmitt, Ren-Yuan Zhu, Liyuan Zhang, Erik M. Muller, Proton radiation effects on carrier transport in diamond radiation detectors. AIP Adv., 10(2), 025004 (2020). [doi: 10.1063/1.5130768]
+
+A. M. Plonka, A. I. Frenkel, W. O. Gordon, J. R. Morris, C. J. Karwacki, Defense Synchrotron Consortium (DSC) at Brookhaven National Laboratory. Synch. Rad. News, 33(1), 29-34 (2020). [doi: 10.1080/08940886.2020.1701374]
+
+Nicole-Irene Olivia Lahanas, Spectroscopic examination of host-guest interactions in metalloporphyrin-based metal-organic frameworks, Thesis Thesis. Rutgers University, Piscataway (2020).
+
+HIGH IMPACTCITED 17 TIMESChunchuan Xu, Jun Yang, Ershuai Liu, Qingying Jia, Gabriel M. Veith, Gokul Nair, Stephen DiPietro, Kai Sun, Jixin Chen, P. Pietrasz, Zijie Lu, Mark Jagner, Kerrie K. Gath, Sanjeev Mukerjee, James R. Waldecker, Physical vapor deposition process for engineering Pt based oxygen reduction reaction catalysts on NbOx templated carbon support. J. Power Sources, 451, 227709 (2020). [doi: 10.1016/j.jpowsour.2020.227709]
+
+CITED 19 TIMESSimerjeet K. Gill, Jiahao Huang, Julia Mausz, Ruchi Gakhar, Santanu Roy, Fernando Vila, Mehmet Topsakal, William C. Phillips, Bobby Layne, Shannon Mahurin, Phillip Halstenberg, Sheng Dai, James F. Wishart, Vyacheslav S. Bryantsev, Anatoly I. Frenkel, Connections between the Speciation and Solubility of Ni(II) and Co(II) in Molten ZnCl2. J. Phys. Chem. B, 124(7), 1253-1258 (2020). [doi: 10.1021/acs.jpcb.0c00195]
+
+HIGH IMPACTCITED 17 TIMESAmani M. Ebrahim, Anna M. Plonka, Yiyao Tian, Sanjaya D. Senanayake, Wesley O. Gordon, Alex Balboa, Hui Wang, Daniel L. Collins-Wildman, Craig L. Hill, Djamaladdin G. Musaev, John R. Morris, Diego Troya, Anatoly I. Frenkel, Multimodal Characterization of Materials and Decontamination Processes for Chemical Warfare Protection. ACS Appl. Mater. Interfaces, 12(13), 14721-14738 (2020). [doi: 10.1021/acsami.9b19494]
+
+CITED 9 TIMESErjia Guan, Alexandre C. Foucher, Nicholas Marcella, Tanya Shirman, Mathilde Luneau, Ashley R. Head, David M. A. Verbart, Joanna Aizenberg, Cynthia M. Friend, Dario Stacchiola, Eric A. Stach, Anatoly I. Frenkel, New Role of Pd Hydride as a Sensor of Surface Pd Distributions in Pd−Au Catalysts. ChemCatChem, 12(3), 717-721 (2020). [doi: 10.1002/cctc.201901847]
+
+HIGH IMPACTCITED 24 TIMESMustafizur Rahman, Antonia Infantes-Molina, Alexey Boubnov, Simon R. Bare, Eli Stavitski, Apoorva Sridhar, Sheima J. Khatib, Increasing the catalytic stability by optimizing the formation of zeolite-supported Mo carbide species ex situ for methane dehydroaromatization. J. Catal., 375, 314-328 (2019). [doi: 10.1016/j.jcat.2019.06.002]
+
+CITED 4 TIMESP. C. Ryan, F.J. Huertas, L. N. Pincus, W. Painter, ARSENIC-BEARING SERPENTINE-GROUP MINERALS: MINERAL SYNTHESIS WITH INSIGHTS FOR THE ARSENIC CYCLE. Clays and Clay Minerals, 67(6), 488-506 (2019). [doi: 10.1007/s42860-019-00040-1]
+
+HIGH IMPACTCITED 15 TIMESB Cai, K Akkiraju, W Mounfield, Z Wang, X Li, B Huang, S Yuan, D Su, Y Roman-Leshkov, Y Shao-Horn, Solid-State Gelation for Nanostructured Perovskite Oxide Aerogels. Chem. Mater., 31(22), 9422-9429 (2019). [doi: 10.1021/acs.chemmater.9b03182]
+
+CITED 15 TIMESYu Liu, Milinda Abeykoon, Eli Stavitski, Klaus Attenkofer, C. Petrovic, Magnetic anisotropy and entropy change in trigonal Cr5Te8. Phys. Rev. B, 100(24) (2019). [doi: 10.1103/PhysRevB.100.245114]
+
+HIGH IMPACTCITED 101 TIMESB Zhang, C Zhu, Z Wu, E Satvitski, Y Lui, T Kim, H Liu, H Wang, J Francisco, Integrating Rh Species with NiFe-Layered Double Hydroxide for Overall Water Splitting. Nano Lett., 20(1), 136-144 (2019). [doi: 10.1021/acs.nanolett.9b03460]
+
+HIGH IMPACTCITED 17 TIMEST Nguyen-Phan, C Wang, C Marin, Y Zhou, E Stavitski, E Popczun, Y Yu, W Xu, D Kaufmann, Understanding Three-Dimensionally Interconnected Porous Oxide-Derived Copper Electrocatalyst for Selective Carbon Dioxide Reduction. J. Mater. Chem. A, 7(48), 27576-27584 (2019). [doi: 10.1039/C9TA10135G]
+
+HIGH IMPACTCITED 43 TIMESE Gomez, X Nie, J Lee, Z Xie, J Chen, Tandem Reactions of CO2 Reduction and Ethane Aromatization. J. Am. Chem. Soc., 141(44), 17771-17782 (2019). [doi: 10.1021/jacs.9b08538]
+
+HIGH IMPACTCITED 24 TIMESM Gong, J Zhu, M Liu, P Liu, Z Denag, T Shen, E Stavitski, R Adzic, H Lin, Optimizing PtFe intermetallics for oxygen reduction reaction: from DFT screening to in situ XAFS characterization. Nanoscale, 11, 20301-20306 (2019). [doi: 10.1039/C9NR04975D]
+
+HIGH IMPACTCITED 9 TIMESZ Li, J Song, D Lee, A Abdelhafiz, Z Xiao, Z Hou, S Liao, B DeGlee, M Liu, Mono-disperse PdO nanoparticles prepared via microwave-assisted thermo-hydrolyzation with unexpectedly high activity for formic acid oxidation. Electrochim. Acta, 329, 135166 (2019). [doi: 10.1016/j.electacta.2019.135166]
+
+HIGH IMPACTCITED 28 TIMESZ Zhang, L Zhang, S Yao, X Song, W Huang, M Hulsey, N Yan, Support-dependent rate-determining step of CO2 hydrogenation to formic acid on metal oxide supported Pd catalysts. J. Catal., 376, 57-67 (2019). [doi: 10.1016/j.jcat.2019.06.048]
+
+HIGH IMPACTCITED 56 TIMESR Lin, E Hu, M Liu, Y Wang, H Cheng, J Wu, J Zheng, Q Wu, S Bak, X Tong, Anomalous metal segregation in lithium-rich material provides design rules for stable cathode in lithium-ion battery. Nat. Comm., 10, 1650 (2019). [doi: 10.1038/s41467-019-09248-0]
+
+CITED 2 TIMESJ Kammert, G Brezicki, N Miyake, E Stavitski, R Davis, Reduction of Propanoic Acid over Pd-promoted Supported WOx Catalysts. ChemCatChem, 11, 1-13 (2019). [doi: 10.1002/cctc.201901302]
+
+HIGH IMPACTCITED 9 TIMESY Xue, A Fishman, Y Wang, Z Pan, X Shen, R Yanagi, G Hutchings , M Liu, S Hu, Hydrogen evolution activity tuning via two-dimensional electron accumulation at buried interfaces. J. Mater. Chem. A, 7(36), 20696-20705 (2019). [doi: 10.1039/C9TA07123G]
+
+HIGH IMPACTCITED 5 TIMESW Zhang, J Lyons, J Cen, M Sfeir, M Liu, Multicomponent Oxynitride Thin Films: Precise Growth Control and Excited State Dynamics. Chem. Mater., 31, 3461-3467 (2019). [doi: 10.1021/acs.chemmater.9b00656]
+
+CITED 11 TIMESA Stubbs, M Dinca, Selective Oxidation of C−H Bonds through a Manganese(III) Hydroperoxo in MnII-Exchanged CFA‐1. Inorg. Chem., 58(19), 13221-13228 (2019). [doi: 10.1021/acs.inorgchem.9b02068]
+
+HIGH IMPACTM Jouny, J Lv, T Cheng, B Ko, J Zhu, W Goddard, F Jiao, Formation of carbon-nitrogen bonds in carbon monoxide electrolysis. Nature Chem., 11(9), 846-851 (2019). [doi: 10.1038/s41557-019-0132-z]
+
+E Liu, L Jiao, S Mukerjee, Q Jia, A Universal Picture of the HER/HOR Kinetics of Pt in Alkaline Solution, 236th ECS Meeting, sponsored by The Electrochemical Society (2019).
+
+HIGH IMPACTCITED 117 TIMEST Deng, X Fan, L Cao, J Chen, S Hou, X Ji, L Chen, S Li, X Zhou, C Wang, Designing In-Situ-Formed Interphases Enables Highly Reversible Cobalt-Free LiNiO2 Cathode for Li-ion and Li-metal Batteries. Joule, 3(10), 2550-2564 (2019). [doi: 10.1016/j.joule.2019.08.004]
+
+HIGH IMPACTCITED 380 TIMESK Jiang, S Back, A Akey, C Xia, Y Hu, W Liang, D Shaak, E Stavitski, H Wang, Highly selective oxygen reduction to hydrogen peroxide on transition metal single atom coordination. Nat. Comm., 10, 3997 (2019). [doi: 10.1038/s41467-019-11992-2]
+
+M Zou, Investigation of Diamond Radiation Detectors in Radiation Therapy Applications, Ph.D. Thesis. Stony Brook University, Stony Brook (2019).
+
+HIGH IMPACTCITED 304 TIMESC Xia, P Zhu, Q Jiang, Y Pang, W Liang, E Stavitski, H Alshareef, H Wang, Continuous production of pure liquid fuel solutions via electrocatalytic CO2 reduction using solid-electrolyte devices. Nat Energy, 4, 776–785 (2019). [doi: 10.1038/s41560-019-0451-x]
+
+CITED 8 TIMESX Li, H Almkhelfe, N Bedford, T Back, K Hohn, P Amama, Characterization and catalytic behavior of Fischer–Tropsch catalysts derived from different cobalt precursors. Catal. Today, 338, 40-51 (2019). [doi: 10.1016/j.cattod.2019.05.023]
+
+HIGH IMPACTCITED 33 TIMESJ Li, Q Zhou, C Zhong, S Li, Z Shen, J Pu, J Liu, Y Zhou, H Zhang, H Ma, (Co/Fe)4O4 Cubane-Containing Nanorings Fabricated by Phosphorylating Cobalt Ferrite for Highly Efficient Oxygen Evolution Reaction. ACS Catal., 9(5), 3878-3887 (2019). [doi: 10.1021/acscatal.9b00293]
+
+CITED 8 TIMESS Liu, H Zhang, S Ghose, M Balasubramanian, Z Liu, S Wang, Y Chen, B Gao, M Croft, Nature of the structural symmetries associated with hybrid improper ferroelectricity in C a 3 X 2 O 7 ( X = Mn and Ti ). Phys. Rev. B Condens. Matter Mater. Phys., 99, 224105 (2019). [doi: 10.1103/PhysRevB.99.224105]
+
+CITED 48 TIMESM Bellini, M Pagliaro, A Lenarda, P Fornasiero, M Marelli, C Evangelisti, M Innocenti, Q Jia, S Mukerjee, Palladium-ceria catalysts with enhanced alkaline hydrogen oxidation activity for anion exchange membrane fuel cells. ACS Appl. Energy Mater., 2(7), 4999-5008 (2019). [doi: 10.1021/acsaem.9b00657]
+
+HIGH IMPACTM Rahman, A Infantes-Molina, A Boubnov, S Bare, E Stavitski, A Sridhar, S Khatib, Increasing the catalytic stability by optimizing the formation of zeolite-supported Mo carbide species ex situ for methane dehydroaromatization. J. Catal., 375, 314-328 (2019).
+
+CITED 6 TIMESY Zhou, S Natesakhawat, T Nguyen-Phan, D Kauffman, C Marin, K Kisslinger, R Lin, H Xin, E Stavitski, Highly Active and Stable Carbon Nanosheets Supported Iron Oxide for Fischer-Tropsch to Olefins Synthesis. ChemCatChem, 11, 1625-1632 (2019). [doi: 10.1002/cctc.201802022]
+
+HIGH IMPACTCITED 84 TIMESZ Yuan, S Bak, P Li, Y Jia, L Zheng, Y Zhou, L Bai, E Hu, X Yang, Activating Layered Double Hydroxide with Multivacancies by Memory Effect for Energy-Efficient Hydrogen Production at Neutral pH. ACS Energy Lett., 4, 1412-1418 (2019). [doi: 10.1021/acsenergylett.9b00867]
+
+HIGH IMPACTCITED 100 TIMESZ Liang, L Song, S Deng, Y Zhu, E Stavitski, R Adzic, J Chen, J Wang, Direct 12-Electron Oxidation of Ethanol on a Ternary Au(core)-PtIr(shell) Electrocatalyst. J. Am. Chem. Soc., 141(24), 9629-9636 (2019). [doi: 10.1021/jacs.9b03474]
+
+HIGH IMPACTCITED 32 TIMESY Yan, Z Zhang, S Bak, S Yao, X Hu, Z Shadike, C Thanh, F Zhang, H Chen, Confinement of Ultrasmall Cobalt Oxide Clusters within Silicalite-1 Crystals for Efficient Conversion of Fructose into Methyl Lactate. ACS Catal., 9(3), 1923-1930 (2019). [doi: 10.1021/acscatal.8b03230]
+
+HIGH IMPACTCITED 46 TIMESG Brezicki, J Kammert, B Gunnoe, C Paolucci, R Davis, Insights into the Speciation of Cu in the Cu-H-Mordenite Catalyst for the Oxidation of Methane to Methanol. ACS Catal., 9, 5308–5319 (2019). [doi: 10.1021/acscatal.9b00852]
+
+HIGH IMPACTCITED 129 TIMESY Deng, B Chi, X Tian, Z Cui, E Liu, Q Jia, W Fan, G Wang, D Dang, g-C3N4 promoted MOF derived hollow carbon nanopolyhedra doped with high density/fraction of single Fe atoms as an ultra-high performance non-precious catalyst towards acidic ORR and PEM fuel cells . J. Mater. Chem. A, 7, 5020-5030 (2019). [doi: 10.1039/C8TA11785C]
+
+CITED 23 TIMESS Zhang, Y Li, J Huang, J Lee, D Kim, A Frenkel, T Kim, Effects of Molecular and Electronic Structures in CoOx/CeO2 Catalysts on NO Reduction by CO. J. Phys. Chem. C, 123(12), 7166-7177 (2019). [doi: 10.1021/acs.jpcc.8b12442]
+
+HIGH IMPACTCITED 34 TIMESW Saputera, H Tahini, M Sabsabi, T Tan, N Bedford, E Lovell, Y Cui, J Hart, D Friedmann, Light-Induced Synergistic Multidefect Sites on TiO2/SiO2 Composites for Catalytic Dehydrogenation. ACS Catal., 9(3), 2674-2684 (2019). [doi: 10.1021/acscatal.8b04891]
+
+HIGH IMPACTCITED 86 TIMESB Song, M Tang, E Hu, O Borkiewicz, K Wiaderek, Y Zhang, N Philip, X Liu, Z Shadike, C Li, Understanding the Low Voltage Hysteresis of Anionic Redox in Na2Mn3O7. Chem. Mater., 31(10), 3756-3765 (2019). [doi: 10.1021/acs.chemmater.9b00772]
+
+HIGH IMPACTCITED 35 TIMESD Kauffman, X Deng, D Sorescu, T Nguyen-Phan, C Wang, C Marin, E Stavitski, I Walyuo, A Hunt, Edge-Enhanced Oxygen Evolution Reactivity at Ultrathin, Au-Supported Fe2O3 Electrocatalysts. ACS Catal., 9, 5375–5382 (2019). [doi: 10.1021/acscatal.9b01093]
+
+HIGH IMPACTCITED 8 TIMESD Yan, M Topsakal, S Selcuk, J Lyons, W Zhang, Q Wu, I Walyuo, E Stavitski, M Liu, Ultrathin amorphous titania on nanowires: Optimization of conformal growth and elucidation of atomic-scale motifs. Nano Energy, 19(6), 3457-3463 (2019). [doi: 10.1021/acs.nanolett.8b04888]
+
+HIGH IMPACTCITED 182 TIMESY Tang, Y Wei, Z Wang, S Zhang, Y Li, L Nguyen, Y Li, Y Zhouy, P Hu, Synergy of Single-Atom Ni1 and Ru1 Sites on CeO2 for Dry Reforming of CH4. J. Am. Chem. Soc., 141(18), 7283–7293 (2019). [doi: 10.1021/jacs.8b10910]
+
+CITED 10 TIMESK Ranasinghe, R Singh, D Day, K Attenkofer, E Stavitski, L Quinn, D Patterson, A Duenas, Evidence of the coexistence of multivalence cerium oxide nano-particles in a sodium borate glass. J. Non-Cryst. Solids, 515, 75-81 (2019). [doi: 10.1016/j.jnoncrysol.2019.04.001]
+
+HIGH IMPACTCITED 269 TIMESW Luc, X Fu, J Shi, J Lv, M Jouny, B Ko, Y Xu, Q Tu, . .., Y Kang, Two-dimensional copper nanosheets for electrochemical reduction of carbon monoxide to acetate. Nat. Catal., 2, 423-430 (2019). [doi: 10.1038/s41929-019-0269-8]
+
+HIGH IMPACTCITED 87 TIMESZ Liu, F Zhang, N Rui, X Li, L Lin, D Su, W Xu, J Cen, K Attenkofer, Highly Active Ceria Supported Ru Catalyst for the Dry Reforming of Methane: In-situ Identification of Ruδ+-Ce3+ Interactions for Enhanced Conversion. ACS Catal., 9, 3349–3359 (2019). [doi: 10.1021/acscatal.8b05162]
+
+HIGH IMPACTCITED 158 TIMESY Mao, X Wang, S Xia, K Zhang, C Wei, S Bak, Z Shadike, X Liu, Y Yang, R Xu, High‐Voltage Charging‐Induced Strain, Heterogeneity, and Micro‐Cracks in Secondary Particles of a Nickel‐Rich Layered Cathode Material. Adv. Func. Mater., 29(18), 1900247 (2019). [doi: 10.1002/adfm.201900247]
+
+HIGH IMPACTCITED 156 TIMESE Liu, J Li, L Jiao, H Doan, Z Liu, Z Zhao, Y Huang, K Abraham, S Mukerjee, Q Jia, Unifying the Hydrogen Evolution and Oxidation Reactions Kinetics in Base by Identifying the Catalytic Roles of Hydroxyl-Water-Cation Adducts. J. Am. Chem. Soc., 141(7), 3232-3239 (2019). [doi: 10.1021/jacs.8b13228]
+
+HIGH IMPACTCITED 3 TIMESXiaoyan Tan, Emma E. McCabe, Fabio Orlandi, Pascal Manuel, Maria Batuk, Joke Hadermann, Zheng Deng, Changqing Jin, Israel Nowik, Rolfe Herber, Carlo U. Segre, Sizhan Liu, Mark Croft, Chang-Jong Kang, Saul Lapidus, Corey E. Frank, Haricharan Padmanabhan, Venkatraman Gopalan, Meixia Wu, Man-Rong Li, Gabriel Kotliar, David Walker, Martha Greenblatt, MnFe0.5Ru0.5O3: an above-room-temperature antiferromagnetic semiconductor. J. Mater. Chem. C, 7(3), 509-522 (2019). [doi: 10.1039/c8tc05059g]
+
+H Feng, Z Deng, M Wu, M Croft, S Lapidus, S Liu, T Tyson, B Ravel, N Quackenbush, High-Pressure Synthesis of Lu2NiIrO6 with Ferrimagnetism and Large Coercivity . Inorg. Chem., 58, 397−404 (2019). [doi: 10.1021/acs.inorgchem.8b02557 ]
+
+HIGH IMPACTCITED 471 TIMESL Han, X Liu, J Chen, R Lin, H Liu, F Lu, S Bak, Z Liang, E Stavitski, Atomically dispersed Mo catalysts for high-efficiency ambient N2 fixation. Angew. Chem. Int. Ed., 58, 1-6 (2019). [doi: 10.1002/anie.201811728]
+
+HIGH IMPACTCITED 58 TIMEST Wolf, S Kumar, H Singh, T Chakrabarty, F Aussenac, A Frenkel, D Major, M Leskes, Endogenous Dynamic Nuclear Polarization for Natural Abundance 17O and Lithium NMR in the Bulk of Inorganic Solids. J. Am. Chem. Soc., 141(1), 451-462 (2019). [doi: 10.1021/jacs.8b11015]
+
+HIGH IMPACTCITED 48 TIMESWenrui Zhang, Feng Wu, Jun Li, Danhua Yan, Jing Tao, Yuan Ping, Mingzhao Liu, Unconventional Relation between Charge Transport and Photocurrent via Boosting Small Polaron Hopping for Photoelectrochemical Water Splitting. ACS Energy Lett., 3(9), 2232-2239 (2018). [doi: 10.1021/acsenergylett.8b01445]
+
+HIGH IMPACTCITED 670 TIMESKun Jiang, Samira Siahrostami, Tingting Zheng, Yongfeng Hu, Sooyeon Hwang, Eli Stavitski, Yande Peng, James Dynes, Mehash Gangisetty, Dong Su, Klaus Attenkofer, Haotian Wang, Isolated Ni single atoms in graphene nanosheets for high-performance CO2 reduction. Energy Environ. Sci., 11(4), 893-903 (2018). [doi: 10.1039/c7ee03245e]
+
+HIGH IMPACTCITED 65 TIMESC Chu, D Huang, Q Zhu, E Stavitski, J Spies, Z Pan, J Mao, H Xin, C Schmuttenmaer, ACS Catal., 9(1), 626-631 (2018). [doi: 10.1021/acscatal.8b03738]
+
+HIGH IMPACTCITED 15 TIMESM Deng, M Retuerto, S Liu, M Croft, P Stephens, S Calder, W Li, B Chen, C Jin, Dynamic Ferrimagnetic Order in a Highly Distorted Double Perovskite Y2CoRuO6 . Chem. Mater., 30, 7047−7054 (2018). [doi: 10.1021/acs.chemmater.8b02728]
+
+HIGH IMPACTCITED 52 TIMESJ Li, Y Tang, Y Ma, Z Zhang, F Tao, Y Qu, In Situ Formation of Isolated Bimetallic PtCe Sites of Single-Dispersed Pt on CeO2 for Low-Temperature CO Oxidation. ACS Appl. Mater. Interfaces, 10(44), 38134-38140 (2018). [doi: 10.1021/acsami.8b15585]
+
+CITED 16 TIMESH Singh, M Topsakal, K Attenkofer, T Wolf, M Leskes, Y Duan, F Wang, J Vinson, D Lu, A Frenkel, Identification of dopant site and its effect on electrochemical activity in Mn-doped lithium titanate. Phys. Rev. Mater., 2, 125403 (2018). [doi: 10.1103/PhysRevMaterials.2.125403]
+
+HIGH IMPACTCITED 165 TIMESY Chen, B deGlee, Y Tang, Z Wang, B Zhao, Y Wei, L Zhang, S Yoo, K Pei, A robust fuel cell operated on nearly dry methane at 500 °C enabled by synergistic thermal catalysis and electrocatalysis. Nat Energy, 3, 1042-1050 (2018). [doi: 10.1038/s41560-018-0262-5]
+
+CITED 25 TIMESJ Liu, L Yu, E Hu, B Guiton, X Yang, K Page, Large-Scale Synthesis and Comprehensive Structure Study of δ‑MnO2. Inorg. Chem., 57, 6873−6882 (2018). [doi: 10.1021/acs.inorgchem.8b00461]
+
+HIGH IMPACTS Xu, J Wu, E Hu, Q Li, J Zhang, Y Wang, E Stavitski, L Jiang, X Rong, Suppressing the Voltage Decay of Low-Cost P2-Type Iron Based Cathode Materials for Sodium-ion Batteries. J. Mater. Chem. A, 6(42), 20795-20803 (2018). [doi: 10.1039/C8TA07933A ]
+
+HIGH IMPACTCITED 349 TIMESX Yang, J Nash, J Anibal, M Dunwell, S Kattel, E Stavitski, K Attenkofer, J Chen, Y Yan, B Xu, Mechanistic Insights into Electrochemical Nitrogen Reduction Reaction on Vanadium Nitride Nanoparticles. J. Am. Chem. Soc., 140(41), 13387-13391 (2018). [doi: 10.1021/jacs.8b08379]
+
+HIGH IMPACTCITED 51 TIMESD Huang, G de Vera, C Chu, Q Zhu, E Stavitski, J Mao, H Xin, J Spies, C Schmuttenmaer, Single-Atom Pt Catalyst for Effective C–F Bond Activation via Hydrodefluorination. ACS Catal., 8, 9353–9358 (2018). [doi: 10.1021/acscatal.8b02660]
+
+HIGH IMPACTCITED 82 TIMESS Ratso, N Sahraie, M Sougrati, M Kaarik, M Kook, R Saar, P Paiste, Q Jia, J Leis, Synthesis of highly-active Fe–N–C catalysts for PEMFC with carbide-derived carbons. J. Mater. Chem. A, 6, 14663-14674 (2018). [doi: 10.1039/C8TA02325E]
+
+HIGH IMPACTCITED 11 TIMESJ Kammert, J Xie, I Godfrey, R Unocic, E Stavitski, K Attenkofer, G Sankar, R Davis, Reduction of Propionic Acid over a Pd-Promoted ReOx/SiO2 Catalyst Probed by X-Ray Absorption Spectroscopy and Transient Kinetic Analysis. ACS Sustainable Chem. Eng., 6(9), 12353-12366 (2018). [doi: 10.1021/acssuschemeng.8b02820]
+
+CITED 7 TIMEST Miller, V Davies, J Li, S Ghoshal, E Stavitski, K Attenkofer, S Mukerjee, Q Ji, Actualizing In Situ X-ray Absorption Spectroscopy Characterization of PEMFC-Cycled Pt-Electrodes Fuel Cells, Electrolyzers, and Energy Conversion. J. Electrochem. Soc., 165(9), F597-F603 (2018). [doi: 10.1149/2.0151809jes]
+
+HIGH IMPACTCITED 57 TIMESW Xiao, M Cordeiro, G Gao, A Zheng, J Wang, w Lei, M Gong, R Lin, E Stavitski, H Xin, Atomic Rearrangement from Disordered to Ordered Pd-Fe Nanocatalysts with Trace Amount of Pt Decoration for Efficient Electrocatalysis. Nano Energy, 50, 70-78 (2018). [doi: 10.1016/j.nanoen.2018.05.032]
+
+HIGH IMPACTCITED 35 TIMESW Xiao, W Lei, J Wang, G Gao, T Zhao, M Cordeiro, R Lin, M Gong, X Guo, E Stavitski, Tuning the Electrocatalytic Activity of Pt by Structurally Ordered PdFe/C for Hydrogen Oxidation Reaction in Alkaline Media. J. Mater. Chem. A(24) (2018). [doi: 10.1039/C8TA03250E]
+
+HIGH IMPACTCITED 18 TIMESS Kim, T Emge, Z Deng, R Uppuluri, L Collins, S Lapidus, C Serge, M Croft, C Jin, YCrWO6: Polar and Magnetic Oxide with CaTa2O6-Related Structure. Chem. Mater., 30, 1045-1054 (2018). [doi: 10.1021/acs.chemmater.7b04941]
+
+HIGH IMPACTCITED 31 TIMESW Zhang, D Yan, J Li, Q Cen, L Zhang, A Orlov, H Xin, J Tao, M Liu, Anomalous Conductivity Tailored by Domain-Boundary Transport in Crystalline Bismuth Vanadate Photoanodes. Chem. Mater., 30(5), 1677-1685 (2018). [doi: 10.1021/acs.chemmater.7b05093]
+
+HIGH IMPACTCITED 352 TIMESM Xiam, J Zhu, L Ma, Z Jin, J Ge, Microporous Framework Induced Synthesis of Single-Atom Dispersed Fe-N-C Acidic ORR Catalyst and Its in Situ Reduced Fe-N4 Active Site Identification Revealed by X-ray Absorption Spectroscopy. ACS Catal., 8(4), 2824 (2018). [doi: 10.1021/acscatal.8b00138]
+
+HIGH IMPACTCITED 133 TIMESQ Jia, Z Zhao, L Cao, J Li, S Ghoshal, V DEvies, E Stavitski, K Attenkofer, Roles of Mo Surface Dopants in Enhancing the ORR Performance of Octahedral PtNi Nanoparticles. Nano Lett., 18(2), 798 (2018). [doi: 10.1021/acs.nanolett.7b04007]
+
+HIGH IMPACTCITED 51 TIMESJ Xie, J Kammert, N Kaylor, J Zheng, E Choi, H Pham, X S, E Stavitski, K Attenkofer, Atomically Dispersed Co and Cu on N-Doped Carbon for Reactions Involving C–H Activation. ACS Catal., 8(5), 3875-3884 (2018). [doi: 10.1021/acscatal.8b00141]
+
+CITED 6 TIMESH Singh, D Donetsky, J Liu, K Attenkofer, B Cheng, J Trelewicz, I Lubomirsky, E Stavitski, A Frenkel, Investigation of Periodically Driven Systems by X-ray Absorption Spectroscopy Using Asynchronous Data Collection Mode. Rev. Sci. Instrum., 89, 045111 (2018). [doi: 10.1063/1.5000679]
+
+B Luvizotto, K Attenkofer, H Bassan, E Stavitski, XLive: Data Acquisition and Visualization at the NSLS-II ISS Beamline, 16th International Conference on Accelerator and Large Experimental Physics Control Systems (ICALEPCS 2017) , Vol TUPHA211, p. 962-965, sponsored by non DOE (2018). [doi: 10.18429/JACoW-ICALEPCS2017-TUPHA211]
+
+CITED 2 TIMESY Liu, C Kang, E Stavitski, Q Du, K Attenkofer, G Kotlyar, C Petrovic, Polaronic Transport and Thermoelectricity in Fe 1 − x Co x Sb 2 S 4 ( x = 0 , 0.1, and 0.2). Phys. Rev. B Condens. Matter Mater. Phys., 97, 155202 (2018). [doi: 10.1103/PhysRevB.97.155202]
+
+CITED 37 TIMESY Liu, E Stavitski, K Attenkofer, C Petrovic, Anomalous Hall effect in the van der Waals bonded ferromagnet Fe 3 − x GeTe 2. Phys. Rev. B Condens. Matter Mater. Phys., 97, 165415 (2018). [doi: 10.1103/PhysRevB.97.165415]
+
+CITED 24 TIMESD Vovchok, C Guild, S Dissanayake, J Llorca, E Stavitski, Z Liu, R Palomino, I Waluyo, Y Li, In Situ Characterization of Mesoporous Co/CeO2 Catalysts for the High-Temperature Water-Gas Shift. J. Phys. Chem. C, 122(16), 8998–9008 (2018). [doi: 10.1021/acs.jpcc.8b01271]
+
+CITED 26 TIMESM Huie, D Bock, L Wang, A Marschilok, K Takeuchi, E Takeuchi, Lithiation of Magnetite (Fe3O4): Analysis Using Isothermal Microcalorimetry and Operando X‑ray Absorption Spectroscopy. J. Phys. Chem. C, 122, 10316-10326 (2018). [doi: 10.1021/acs.jpcc.8b01681]
+
+CITED 16 TIMESD Yan, W Zhang, J Cen, E Stavitski, J Sadowski, E Vescovo, A Walter, K Attenkofer, D Stacchiola, M Liu, Near band edge photoluminescence of ZnO nanowires: Optimization via surface engineering. Appl. Phys. Lett., 111(23), 231901 (2017). [doi: 10.1063/1.5001043]
+
+T Zhou, Diamond Radiation Detectors, Ph.D. Thesis. State University of New York at Stony Brook, Stony Brook (2017).
+
+D Yan, Engineering of Semiconductor Photocatalysts for Solar Water Splitting, Ph.D. Thesis. Stony Brook University, Stony Brook (2017).
+
+HIGH IMPACTCITED 57 TIMESP Wang, Y Guo, H Duan, T Zuo, E Hu, K Attenkofer, H Li, X Zhao, Y Yin, Honeycomb-Ordered Na3Ni1.5M0.5BiO6 (M = Ni, Cu, Mg, Zn) as High-Voltage Layered Cathodes for Sodium-Ion Batteries. ACS Energy Lett., 2(12), 2715 (2017). [doi: 10.1021/acsenergylett.7b00930]
+
+HIGH IMPACTJ Li, S Ghoshal, M Bates, T Miller, V Davies, E Stavitski, K Attenkofer, S Mukerjee, Z Ma, Q Jia, Experimental Proof of the Bifunctional Mechanism for the Hydrogen Oxidation in Alkaline Media. Angew. Chem. Int. Ed., 56(49), 15594 (2017). [doi: 10.1002/anie.201708484 ]
+
+HIGH IMPACTCITED 47 TIMESK Jiang, P Kharel, Y Peng, M Gangishetty, H Lin, E Stavitski, K Attenkofer, H Wang, Silver Nanoparticles with Surface-Bonded Oxygen for Highly Selective CO2 Reduction. ACS Sustainable Chem. Eng., 5(10), 8529–8534 (2017). [doi: 10.1021/acssuschemeng.7b02380]
+
+CITED 14 TIMESK Sun, C Zhao, C Lin, E Stavitski, G Williams, J Bai, E Dooryhee, K Attenkofer, J Thieme, Operando Multi-modal Synchrotron Investigation for Structural and Chemical Evolution of Cupric Sulfide (CuS) Additive in Li-S battery. Sci Rep, 7(1), 12976 (2017). [doi: 10.1038/s41598-017-12738-0]
+
+HIGH IMPACTCITED 146 TIMESS Bak, R Qiao, W Yang, S Lee, X Yu, B Anasori, H Le, Y Gogotsi, X Yang, Na-Ion Intercalation and Charge Storage Mechanism in 2D Vanadium Carbide. Adv. Energy Mater., 7(20), 1700959 (2017). [doi: 10.1002/aenm.201700959]
+
+HIGH IMPACTCITED 233 TIMESHu-Rong Yao, Peng-Fei Wang, Yue Gong, Jienan Zhang, Xiqian Yu, Lin Gu, Chuying OuYang, Ya-Xia Yin, Enyuan Hu, Xiao-Qing Yang, Eli Stavitski, Yu-Guo Guo, Li-Jun Wan, Designing Air-Stable O3-Type Cathode Materials by Combined Structure Modulation for Na-Ion Batteries. J. Am. Chem. Soc., 139(25), 8440-8443 (2017). [doi: 10.1021/jacs.7b05176]
+
+HIGH IMPACTCITED 374 TIMESZ Cai, Y Bi, E Hu, W Liu, N Dwarica, Y Tian, X Li, Y Kuang, Y Li, Single-Crystalline Ultrathin Co3O4 Nanosheets with Massive Vacancy Defects for Enhanced Electrocatalysis. Adv. Energy Mater., 8, 1701694 (2017). [doi: 10.1002/aenm.201701694]
+
+HIGH IMPACTCITED 124 TIMESY Xu, E Hu, K Zhang, X Wang, V Borzenets, Z Sun, P Pianetta, X Yu, Y Liu, In situ Visualization of State-of-Charge Heterogeneity within a LiCoO2 Particle that Evolves upon Cycling at Different Rates. ACS Energy Lett., 2(5), 1240-1245 (2017). [doi: 10.1021/acsenergylett.7b00263]
+
+R Palomino, E Stavitski, I Waluyo, Y Chen-Wiegart, M Abeykoon, J Sadowski, J Rodriguez, A Frenkel, S Senanayake, New In-Situ and Operando Facilities for Catalysis Science at NSLS-II: The Deployment of Real-Time, Chemical, and Structure-Sensitive X-ray Probes. Synch. Rad. News, 30(2), 30-37 (2017). [doi: 10.1080/08940886.2017.1289805]
+
+HIGH IMPACTCITED 101 TIMESJ Li, A Alsudairi, Z Ma, S Mukerjee, Q Jia, Asymmetric Volcano Trend in Oxygen Reduction Activity of Pt and Non-Pt Catalysts: In Situ Identification of the Site-Blocking Effect. J. Am. Chem. Soc., 139(4), 1384–1387 (2017). [doi: 10.1021/jacs.6b11072]

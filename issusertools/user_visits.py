@@ -72,6 +72,14 @@ def extract_unique_user_visits(user_visits_list):
 
 unique_user_visits = extract_unique_user_visits(user_visits_list)
 
+import json
+def save_user_visit_list(unique_user_visits, file = '/home/xf08id/Repos/issusertools/issusertools/user_visits.json'):
+    with open(file, 'w') as f:
+        json.dump(unique_user_visits, f)
+
+save_user_visit_list(unique_user_visits, )
+
+
 
 
 def load_current_proposal(file = '/home/xf08id/Repos/issusertools/proposals 2023-3.xlsx'):

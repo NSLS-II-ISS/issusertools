@@ -62,6 +62,7 @@ def parse_publication_list(unformatted_pub_list, impact_factor_dict):
     return publications_dict
 
 formatted_publication_dict= parse_publication_list(unformatted_pub_list, impact_factor_dict)
+
 def save_publication_list(formatted_publication_dict, file = '/Users/elistavitski/Repos/issusertools/issusertools/formatted_publications.txt'):
     with open(file, 'w') as f:
         json.dump(formatted_publication_dict, f)
